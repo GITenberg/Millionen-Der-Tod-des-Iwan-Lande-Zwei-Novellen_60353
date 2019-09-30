@@ -1,0 +1,31 @@
+_repo: Millionen-Der-Tod-des-Iwan-Lande-Zwei-Novellen_60353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Artsybashev, M. (Mikhail)
+    aliases:
+    - Artsybashev, Mikhail Petrovich
+    - Арцыбашев, Михаил Петрович
+    - Artzibashef, Michael
+    - Arzybaschew, Michail Petrowitsch
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '2955'
+    url: http://www.gutenberg.org/2009/agents/2955
+    wikipedia: https://en.wikipedia.org/wiki/Mikhail_Artsybashev
+description: ''
+gutenberg_issued: '2019-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60353'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into German'
+- GITenberg
+title: 'Millionen; Der Tod des Iwan Lande: Zwei Novellen'
+url: http://www.gutenberg.org/ebooks/60353
